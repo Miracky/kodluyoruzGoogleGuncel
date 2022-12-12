@@ -1,3 +1,7 @@
+ul,li{
+  list-style: none;
+}
+
 .header {
   list-style-type: none;
   margin: 10px;
